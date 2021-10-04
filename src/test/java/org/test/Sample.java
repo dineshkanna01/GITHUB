@@ -51,5 +51,7 @@ public class Sample {
 
 
 //        driver.quit();
+        
+        driver.quit();
 	}
 }
