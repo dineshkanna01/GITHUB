@@ -48,7 +48,7 @@ public class Sample {
         driver.findElement(By.id("accept")).click();
         driver.findElement(By.id("submit-booking")).click();
 
-
+        driver.findElement(By.id("submit-booking")).click();
 
 //        driver.quit();
         
