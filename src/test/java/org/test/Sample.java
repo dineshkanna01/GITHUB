@@ -47,9 +47,8 @@ public class Sample {
         driver.findElement(By.id("booking_phone_number")).sendKeys("9876522212");
         driver.findElement(By.id("accept")).click();
         driver.findElement(By.id("submit-booking")).click();
-
-
-
+        driver.findElement(By.id("accept")).click();
+        driver.findElement(By.id("submit-booking")).click();
 //        driver.quit();
         
         driver.quit();
